@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASA<br>🌱 I’m currently learning C#
+🔭 I’m currently working on OpenPOS<br>🌱 I’m currently learning C#
 
 
 # 💻 Tech Stack:
