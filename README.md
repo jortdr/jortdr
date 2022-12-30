@@ -1,6 +1,6 @@
 # 💫 About Me:
 💼 Currently working at Amac - Apple Premium Partner / Apple Premium Reseller<br>
-🔭 I’m currently working on OpenPOS (University project<br>
+🔭 I’m currently working on OpenPOS (University project)<br>
 🌱 I’m currently learning C# and Laravel<br>
 
 
