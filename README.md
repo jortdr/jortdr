@@ -1,7 +1,7 @@
 # 💫 About Me:
-💼 Currently working at Amac - Apple Premium Partner / Apple Premium Reseller<br>
-🔭 I’m currently working on OpenPOS (University project)<br>
-🌱 I’m currently learning C# and Laravel<br>
+💼 Currently working at Amac - Apple Premium Partner - As a Jr. Software Developer<br>
+🔭 I’m currently working on Web Dev projects<br>
+🌱 I’m currently learning Web Dev<br>
 
 
 # 💻 Tech Stack:
