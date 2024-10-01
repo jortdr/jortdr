@@ -1,7 +1,7 @@
 # 💫 About Me:
-💼 Currently working at Amac - Apple Premium Partner - As a Jr. Software Developer<br>
-🔭 I’m currently working on Web Dev projects<br>
-🌱 I’m currently learning Web Dev<br>
+💼 Currently working at Amac - Apple Premium Partner - As a Software Engineer<br>
+🔭 I’m currently working on [Amac Training](https://amactraining.nl)<br>
+🌱 I’m currently learning Laravel, React, React Native and Vue<br>
 
 
 # 💻 Tech Stack:
