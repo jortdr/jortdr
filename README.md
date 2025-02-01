@@ -1,6 +1,6 @@
 # 💫 About Me:
-💼 Currently working at Amac - Apple Premium Partner - As a Software Engineer<br>
-🔭 I’m currently working on [Amac Training](https://amactraining.nl)<br>
+💼 Currently working at Dolphiq<br>
+🔭 I’m currently working on my graduation internship<br>
 🌱 I’m currently learning Laravel, React, React Native and Vue<br>
 
 
