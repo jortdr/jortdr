@@ -1,7 +1,7 @@
 # 💫 About Me:
-💼 Currently working at Dolphiq<br>
-🔭 I’m currently working on my graduation internship<br>
-🌱 I’m currently learning Laravel, React, React Native and Vue<br>
+💼 Currently working at the Apple Museum Foundation<br>
+🔭 Graduated in Software Engineering<br>
+🌱 I’m currently learning Laravel<br>
 
 
 # 💻 Tech Stack:
