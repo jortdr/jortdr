@@ -1,7 +1,7 @@
 # 💫 About Me:
-💼 Currently working at the Apple Museum Foundation<br>
+💼 Currently working at the Apple Museum Foundation, opening <b>Early 2026</b><br>
 🔭 Graduated in Software Engineering<br>
-🌱 I’m currently learning Laravel<br>
+🌱 I’m currently studying Systems Engineering and Data Science
 
 
 # 💻 Tech Stack:
