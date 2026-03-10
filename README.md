@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently working at the <a href="https://applemuseum.nl?utm_source=github&utm_campaign=jortdr">Apple Museum Foundation</a>, opening <b>Early 2026</b><br>
+💼 Currently working at the <a href="https://applemuseum.nl?utm_source=github&utm_campaign=jortdr">Apple Museum Foundation</a>, opening <b>April 2, 2026</b><br>
 🔭 Graduated in Software Engineering (BSc)<br>
 🌱 I’m currently mastering in Systems Engineering and Data Science, exp. July 2026
 
